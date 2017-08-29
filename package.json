@@ -1,0 +1,15 @@
+{
+  "name": "ll.ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "@microamp",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "typescript": "^2.3.4"
+  },
+  "devDependencies": {
+    "tslint": "^5.4.2"
+  }
+}
